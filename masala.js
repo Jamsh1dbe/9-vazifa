@@ -48,13 +48,13 @@
     jj=kk-jk
     ar.map((value)=>{
         for (let i = 0; i < ar.length; i++) {
-            // jj>=1&& ar.unshift(jj)
-            // jj=0&& ar===ar
-            console.log(i);
+            jj>=1&& ar.unshift(jj)
+            jj=0&& ar===ar
+            // console.log(i);
             
         }
     })
-    console.log(ar);
+    console.log(ar[i]);
 
 
 

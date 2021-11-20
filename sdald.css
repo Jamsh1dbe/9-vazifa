@@ -1,0 +1,24 @@
+.kk{
+    display: grid;
+    /* grid-row-gap: 20px; */
+    grid-row: 1fr,1fr,1fr,1fr,1fr,1fr;
+    background-color: black;
+    row-gap: 20px;
+}
+.ll{
+    /* margin-right: 20px; */
+     background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+.lll{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    
+}
+.km{
+    background-color: rgb(104, 58, 58);
+    width: 200px;
+    height: 200px;
+}
